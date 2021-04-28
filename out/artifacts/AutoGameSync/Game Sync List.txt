@@ -1,0 +1,7 @@
+TITLE
+DIRECTORY
+SAVE FILE LOCATION
+
+Desktop Saves
+C:\Users\Lucas\Desktop\Desktop Game
+C:\Users\Lucas\Desktop\Desktop Saves

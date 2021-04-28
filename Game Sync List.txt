@@ -1,0 +1,23 @@
+TITLE
+DIRECTORY
+SAVE FILE LOCATION
+
+Amoung Us
+C:\Users\Lucas\Desktop\Test\Games\Among Us
+C:\Users\Lucas\Desktop\Test\Saves\AmongUs_SAVE
+
+Dota
+C:\Users\Lucas\Desktop\Test\Games\Dota
+C:\Users\Lucas\Desktop\Test\Saves\Dota_SAVE
+
+Grand Theft Auto
+C:\Users\Lucas\Desktop\Test\Games\GTA
+C:\Users\Lucas\Desktop\Test\Saves\GTA_SAVE
+
+Halo
+C:\Users\Lucas\Desktop\Test\Games\Halo
+C:\Users\Lucas\Desktop\Test\Saves\Halo_SAVE
+
+Rayman
+C:\Users\Lucas\Desktop\Test\Games\Rayman
+C:\Users\Lucas\Desktop\Test\Saves\Rayman_SAVE
